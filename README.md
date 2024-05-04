@@ -1,5 +1,6 @@
 # Leetcode Grindfest lol
-Time to start grinding leetcode if I wanna even think about Quant. This is just my personal journal.
+
+Time to start grinding leetcode if I wanna even think about Quant. This is just my personal journal. I have somewhat prior (unguided) experience in Leetcode and I code in Python.
 
 ## Roadmap
 
@@ -12,11 +13,11 @@ This roadmap is taken from [Neetcode.io](https://neetcode.io/roadmap).
 
 #### Stacks
 
-#### Binary Search*
+#### Binary Search\*
 
-#### Sliding Window*
+#### Sliding Window\*
 
-#### Linked Lists*
+#### Linked Lists\*
 
 #### Trees
 
@@ -34,13 +35,13 @@ This roadmap is taken from [Neetcode.io](https://neetcode.io/roadmap).
 
 #### Intervals
 
-#### Greedy 
+#### Greedy
 
 #### Advanced Graphs
 
 #### Bit Manipulation
 
-#### Math and Geometry 
+#### Math and Geometry
 
 ## High Value Algorithms that I NEED to master
 
@@ -53,4 +54,3 @@ This roadmap is taken from [Neetcode.io](https://neetcode.io/roadmap).
 ## Grind 75 Progress
 
 Follow the [link](https://www.techinterviewhandbook.org/grind75).
-
