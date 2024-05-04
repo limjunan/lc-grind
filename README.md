@@ -3,6 +3,9 @@ Time to start grinding leetcode if I wanna even think about Quant. This is just 
 
 ## Roadmap
 
+![alt text](https://github.com/limjunan/lc-grind/blob/main/roadmap.png?raw=true])
+This roadmap is taken from [Neetcode.io](https://neetcode.io/roadmap).
+
 #### Arrays and Hashing
 
 #### Two Pointers
