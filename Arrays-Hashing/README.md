@@ -22,3 +22,4 @@ Hash Tables are implemented using the `dictionary` data type.
 4. [Meeting Rooms (Easy)](https://www.lintcode.com/problem/920/)
 5. [Insert Interval (Medium)](https://leetcode.com/problems/insert-interval/description/)
 6. [Three Sum (Medium)](https://leetcode.com/problems/3sum/description/)
+7. [Merge Interval (Medium)](https://leetcode.com/problems/merge-intervals/description/)
