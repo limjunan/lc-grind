@@ -23,3 +23,5 @@ Hash Tables are implemented using the `dictionary` data type.
 5. [Insert Interval (Medium)](https://leetcode.com/problems/insert-interval/description/)
 6. [Three Sum (Medium)](https://leetcode.com/problems/3sum/description/)
 7. [Merge Interval (Medium)](https://leetcode.com/problems/merge-intervals/description/)
+8. [Container with Most Water (Medium)](https://leetcode.com/problems/container-with-most-water/description/)
+9. [Gas Station](https://leetcode.com/problems/gas-station/description/)
